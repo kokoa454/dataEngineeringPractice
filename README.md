@@ -1,2 +1,1 @@
-# dataEngineeringPractice
 Study Python
