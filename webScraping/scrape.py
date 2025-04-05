@@ -2,7 +2,9 @@ from bs4 import BeautifulSoup as bs4
 import requests
 import csv
 
-url = 'https://netank.net//' #吉田製作所さんのHP記事をスクレイピングしてみた
+#吉田製作所さんのHP記事をスクレイピングしてみた
+
+url = 'https://netank.net//'
 res = requests.get(url)
 print(res.status_code)
 
