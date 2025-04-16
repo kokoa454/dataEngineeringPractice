@@ -1,3 +1,5 @@
+#犯罪情報のスクレイピング
+
 from bs4 import BeautifulSoup as bs4
 import requests
 import sqlite3
